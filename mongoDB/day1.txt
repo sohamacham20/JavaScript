@@ -1,0 +1,2 @@
+mongoDB is used to stored the unstructured and the semistructured data 
+table is called as collection
